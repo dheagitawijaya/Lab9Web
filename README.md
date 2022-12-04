@@ -6,7 +6,7 @@ Disini saya akan membuat program modular sederhana menggunakan PHP
 # Langkah - langkah Praktikum
 
 ## 1). Buat folder baru dengan nama lab9_php_modular pada docroot webserver
-![folder](img/1.png
+![folder](img/1.png)
 
 ## 2). Buat file baru dengan nama header.php
 ![header](img/2.png)
